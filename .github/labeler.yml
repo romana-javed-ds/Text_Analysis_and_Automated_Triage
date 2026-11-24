@@ -1,0 +1,11 @@
+documentation:
+  - changed-files:
+      - any-glob-to-any-file: '**/*.md'
+
+python:
+  - changed-files:
+      - any-glob-to-any-file: '**/*.py'
+
+notebook:
+  - changed-files:
+      - any-glob-to-any-file: '**/*.ipynb'
